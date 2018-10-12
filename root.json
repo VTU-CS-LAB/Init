@@ -1,1 +1,27 @@
-{"link_to_repo":"https://github.com/VTU-CS-LAB/Init","is_valid":true,"index":[{"title":"Computer Programming Lab","url":"https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/cpl.json"},{"title":"Data Structures Lab","url":"https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/dsl.json"},{"title":"Design and Analysis of Algorithm Lab","url":"https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/daa.json"},{"title":"MicroProcessor and MicroController Lab","url":"https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/mnm.json"},{"title":"Computer Network Lab","url":"https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/cnl.json"}],"invalidation_message":"Some Error Occurred. Try restarting the App.\n\n\nIf this problem persists, check for the updates"}
+{
+    "link_to_repo": "https://github.com/VTU-CS-LAB/Init",
+    "is_valid": true,
+    "index": [
+        {
+            "title": "Computer Programming Lab",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/cpl.json"
+        },
+        {
+            "title": "Data Structures Lab",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/dsl.json"
+        },
+        {
+            "title": "Design and Analysis of Algorithm Lab",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/daa.json"
+        },
+        {
+            "title": "MicroProcessor and MicroController Lab",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/mnm.json"
+        },
+        {
+            "title": "Computer Network Lab",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Init/master/cnl.json"
+        }
+    ],
+    "invalidation_message": "Some Error Occurred. Try restarting the App.\n\n\nIf this problem persists, check for the updates"
+}
