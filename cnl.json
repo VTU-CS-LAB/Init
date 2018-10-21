@@ -23,6 +23,14 @@
             "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/09.TCPSocketClient.java"
         },
         {
+            "title": "10. UDP Datagram Server",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/10.UDPDatagramServer.java"
+        },
+        {
+            "title": "10. UDP Datagram Client",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/10.UDPDatagramClient.java"
+        },
+        {
             "title": "11. RSA",
             "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/11.RSA.java"
         },
