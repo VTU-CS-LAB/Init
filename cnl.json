@@ -7,6 +7,18 @@
             "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/01.3NodesP2P.cc"
         },
         {
+            "title": "02. Ping",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/02.Ping.cc"
+        },
+        {
+            "title": "03. Lan",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/03.Lan.cc"
+        },
+        {
+            "title": "04. WLan",
+            "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/04.WLan.cc"
+        },
+        {
             "title": "07. CRC",
             "url": "https://raw.githubusercontent.com/VTU-CS-LAB/Computer-Network-Laboratory/master/07.CRC.java"
         },
